@@ -246,4 +246,16 @@ section
     }
 
 
+
+    @media (max-width: 320.568px)
+{
+    #slider img
+    {
+        height: 480px;
+        width: 100%;
+    }
+
+
+}
+
 }
