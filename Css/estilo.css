@@ -206,6 +206,14 @@ section
 }
 
 
+
+#tablaOp
+{
+    margin: 0px 3px;
+}
+
+
+
 /* Estilo del Formulario */
 
 .form-control
@@ -244,18 +252,14 @@ section
         height: 550px;
         width: 100%;
     }
+}
 
 
-
-    @media (max-width: 320.568px)
+@media (max-width: 320.568px)
 {
     #slider img
     {
         height: 480px;
         width: 100%;
     }
-
-
-}
-
 }
