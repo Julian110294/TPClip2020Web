@@ -40,7 +40,7 @@ function jugar_ahora() {
 
         }
 
-        alert("Perdiste !!!");
+        alert("Intenta de Nuevo !!!");
 
         document.getElementById("rdo").innerHTML="El Número era: <strong>" + numero_aleatorio + "</strong>"
     }
